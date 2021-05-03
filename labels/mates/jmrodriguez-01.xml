@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mates</folder>
+	<filename>jmrodriguez-01.jpg</filename>
+	<path>/mnt/sto/home/juanma/Documentos/fiuba/Ayudantia/75.50 - Robots/TP-Yolo 2021/mate-detection/images/mates/jmrodriguez-01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>368</ymin>
+			<xmax>718</xmax>
+			<ymax>1259</ymax>
+		</bndbox>
+	</object>
+</annotation>
