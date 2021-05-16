@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mates</folder>
+	<filename>aaackermann-28.jpg</filename>
+	<path>/home/alfredo/workspacerobots/mate-detection/images/mates/aaackermann-28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>1</ymin>
+			<xmax>958</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>
